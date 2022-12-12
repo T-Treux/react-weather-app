@@ -10,7 +10,7 @@ function App() {
         <footer>
           This project was created by Tiffannee Wallace and is{" "}
           <a
-            href="https://app.netlify.com/sites/unrivaled-griffin-2329fe/overview"
+            href="https://unrivaled-griffin-2329fe.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
