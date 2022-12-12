@@ -12,7 +12,7 @@ function App() {
           <a
             href="https://app.netlify.com/sites/unrivaled-griffin-2329fe/overview"
             target="_blank"
-            rel="Netlify link"
+            rel="noopener noreferrer"
           >
             open-sourced on Github
           </a>
