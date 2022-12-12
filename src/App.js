@@ -10,8 +10,9 @@ function App() {
         <footer>
           This project was created by Tiffannee Wallace and is{" "}
           <a
-            href="https://app.netlify.com/sites/unrivaled-tiramisu-c7e2b0/overview"
+            href="https://app.netlify.com/sites/unrivaled-griffin-2329fe/overview"
             target="_blank"
+            rel="Netlify link"
           >
             open-sourced on Github
           </a>
