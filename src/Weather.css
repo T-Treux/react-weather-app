@@ -1,8 +1,8 @@
 .Weather {
-  border: 1px solid brown;
+  border: 10px solid purple;
   padding: 16px;
   margin: 30px auto;
-  border-radius: 4px;
+  border-radius: 20px;
 }
 
 .Weather form {
@@ -14,6 +14,8 @@
   font-weight: 100;
   line-height: 29px;
   margin: 20px 0 0 0;
+  color: purple;
+  font-family: "Lobster", cursive;
 }
 
 .Weather ul {
@@ -26,6 +28,8 @@
   font-weight: 100;
   line-height: 19px;
   list-style: none;
+  color: purple;
+  font-family: "Lobster", cursive;
 }
 
 .Weather canvas {
@@ -38,6 +42,8 @@
   font-weight: bold;
   font-size: 64px;
   font-weight: 400;
+  color: gold;
+  font-family: "Lobster", cursive;
 }
 
 .Weather .units {
@@ -45,4 +51,5 @@
   font-weight: 400;
   position: relative;
   top: -32px;
+  color: purple;
 }
