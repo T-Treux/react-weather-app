@@ -14,7 +14,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            open-sourced on Github
+            open-sourced on Github & Netlify
           </a>
         </footer>
       </div>
