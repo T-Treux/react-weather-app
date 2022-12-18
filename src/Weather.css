@@ -14,7 +14,7 @@
   font-weight: 100;
   line-height: 29px;
   margin: 20px 0 0 0;
-  color: purple;
+  color: #c5b358;
   font-family: "Lobster", cursive;
 }
 
@@ -28,7 +28,7 @@
   font-weight: 100;
   line-height: 19px;
   list-style: none;
-  color: purple;
+  color: #c5b358;
   font-family: "Lobster", cursive;
 }
 
@@ -42,8 +42,9 @@
   font-weight: bold;
   font-size: 64px;
   font-weight: 400;
-  color: gold;
+  color: #c5b358;
   font-family: "Lobster", cursive;
+  margin: 15px;
 }
 
 .Weather .units {
@@ -51,5 +52,5 @@
   font-weight: 400;
   position: relative;
   top: -32px;
-  color: purple;
+  color: #c5b358;
 }

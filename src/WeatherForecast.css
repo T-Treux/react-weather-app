@@ -1,11 +1,13 @@
 .WeatherForecast {
+  color: white;
 }
 .WeatherForecast-temperature-min {
   opacity: 0.6;
   margin-left: 5px;
+  color: white;
 }
 
 .WeatherForecast {
-  color: purple;
+  color: #c5b358;
   font-family: "Lobster", cursive;
 }
